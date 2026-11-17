@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# EXP5-Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 # NAME : DEEPAKKUMAR S
 # REG NO : 212225230042
 ## Aim :
